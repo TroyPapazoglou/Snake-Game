@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\s211059\Desktop\Random Visual Studio files\Snake Prototype\Snake Prototype\main.cpp(75,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211059\Desktop\Random Visual Studio files\Snake Prototype\Snake Prototype\main.cpp(75,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\s211059\Desktop\Random Visual Studio files\Snake Prototype\Snake Prototype\main.cpp(80,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\s211059\Desktop\Random Visual Studio files\Snake Prototype\Snake Prototype\main.cpp(81,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Snake Prototype.vcxproj -> C:\Users\s211059\Desktop\Random Visual Studio files\Snake Prototype\x64\Debug\Snake Prototype.exe
